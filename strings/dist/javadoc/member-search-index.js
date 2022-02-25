@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"strings","c":"Strings","l":"ALargerB(String, String)","url":"ALargerB(java.lang.String,java.lang.String)"},{"p":"strings","c":"Strings","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"strings","c":"Strings","l":"Strings()","url":"%3Cinit%3E()"}]
