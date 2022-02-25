@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"inputoutput","c":"InputOutput","l":"InputOutput()","url":"%3Cinit%3E()"},{"p":"inputoutput","c":"InputOutput","l":"main(String[])","url":"main(java.lang.String[])"}]
