@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"datatypes","c":"Datatypes","l":"Datatypes()","url":"%3Cinit%3E()"},{"p":"datatypes","c":"Datatypes","l":"main(String[])","url":"main(java.lang.String[])"}]
