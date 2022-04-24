@@ -1,6 +1,0 @@
-com\tekpro\apicrud\ApicrudApplication.class
-com\tekpro\apicrud\controller\Gamescontroller.class
-com\tekpro\apicrud\service\GamesService.class
-com\tekpro\apicrud\model\Games.class
-com\tekpro\apicrud\ApplicationList.class
-com\tekpro\apicrud\repository\GamesRepository.class
